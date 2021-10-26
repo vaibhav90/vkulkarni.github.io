@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="html5up-story">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/html5up-story.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
